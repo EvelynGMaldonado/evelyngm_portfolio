@@ -21,6 +21,10 @@ Requiered dependencies: react,bootstrap, react-pdf, scripts, router-dom, dom.
 
 ## Usage 
 An online portfolio allows you to share your work with a wider audience and can be accessed when your audience has time dedicated to review your breadth of work. It is important to have a portfolio with deployed web applications so the companies and future employers will see and have a better idea of your work and skills.
+![Evelyn React Portfolio - Home page".](./assets/port1.png)
+![Evelyn React Portfolio - Projects page".](./assets/porf2.png)
+![Evelyn React Portfolio - Resume page".](./assets/proj3.png)
+![Evelyn React Portfolio - Contact page".](./assets/proj4.png)
 
 ## License 
 This application is covered under the GNU GPLv3.0 License.
