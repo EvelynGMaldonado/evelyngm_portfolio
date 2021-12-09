@@ -20,7 +20,7 @@ return (
                 <div className="card-body rounded" id="background">
                     <div className="row">
                         <div className="card mb-3 text-white" id="image1" style={{maxWidth: "100%"}}>
-                                <img class="card-img card-img-top" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg" style={{maxWidth: "100%"}} alt="Project1"/>
+                                <img class="card-img card-img-top" src={require("../../assets/chess.png").default} style={{maxWidth: "100%"}} alt="Project1"/>
                             <a id="link1" href="https://github.com/EvelynGMaldonado/Project2" className="card-title">Let's play chess</a>
                         </div>
                     </div>
@@ -43,7 +43,7 @@ return (
                 <div className="card-body rounded" id="background">
                     <div className="row">
                         <div className="card mb-3 text-white" id="image1" style={{maxWidth: "100%"}}>
-                                <img class="card-img card-img-top" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg" style={{maxWidth: "100%"}} alt="Project1"/>
+                                <img class="card-img card-img-top" src={require("../../assets/landingpage.png").default} style={{maxWidth: "100%"}} alt="Project1"/>
                             <a id="link1" href="https://github.com/EvelynGMaldonado/tech_blog_MVC" className="card-title">Tech Blog MVC</a>
                         </div>
                     </div>
@@ -66,7 +66,7 @@ return (
                 <div className="card-body rounded" id="background">
                     <div className="row">
                         <div className="card mb-3 text-white" id="image1" style={{maxWidth: "100%"}}>
-                                <img class="card-img card-img-top" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg" style={{maxWidth: "100%"}} alt="Project1"/>
+                                <img class="card-img card-img-top" src={require("../../assets/weather-db1.jpeg").default} style={{maxWidth: "100%"}} alt="Project1"/>
                             <a id="link1" href="https://github.com/EvelynGMaldonado/weather_dashboard" className="card-title">Weather Dashboard</a>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ return (
                 <div className="card-body rounded" id="background">
                     <div className="row">
                         <div className="card mb-3 text-white" id="image1" style={{maxWidth: "100%"}}>
-                                <img class="card-img card-img-top" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg" style={{maxWidth: "100%"}} alt="Project1"/>
+                                <img class="card-img card-img-top" src={require("../../assets/employee.png").default} style={{maxWidth: "100%"}} alt="Project1"/>
                             <a id="link1" href="https://github.com/EvelynGMaldonado/Employee-tracker" className="card-title">Employee Tracker</a>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ return (
                 <div className="card-body rounded" id="background">
                     <div className="row">
                         <div className="card mb-3 text-white" id="image1" style={{maxWidth: "100%"}}>
-                                <img class="card-img card-img-top" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg" style={{maxWidth: "100%"}} alt="Project1"/>
+                                <img class="card-img card-img-top" src={require("../../assets/passwordgenerated.jpeg").default} style={{maxWidth: "100%"}} alt="Project1"/>
                             <a id="link1" href="https://github.com/EvelynGMaldonado/password_generator" className="card-title">Password Generator</a>
                         </div>
                     </div>
