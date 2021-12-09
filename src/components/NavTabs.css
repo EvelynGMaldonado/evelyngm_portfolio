@@ -1,0 +1,129 @@
+:root{
+    --pink: #b91a64;
+    --white: white;
+    --gray: lightgray;
+}
+
+.navbar {
+background: #6a1b9a;
+height: 60px;
+}
+
+.navbar a {
+color: white;
+font-size: 1.3rem;
+text-decoration: none;
+margin: 5px;
+line-height: 3;
+}
+
+header nav {
+padding-top: 15px;
+margin-right: 20px;
+float: right;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+}
+
+header nav ul {
+list-style-type: none;
+}
+
+header nav ul li {
+display: inline-block;
+margin-left: 25px;
+text-decoration: underline;
+}
+
+header nav ul li a {
+font-size: 25px;
+color: black;
+text-decoration: none;
+margin: auto;
+}
+ul {
+padding-top: 1%;
+}
+.photo1 {
+height: 400px;
+width: 100%;
+margin-bottom: 25px;
+background-image: url("https://st2.depositphotos.com/2605379/10670/i/950/depositphotos_106708760-stock-photo-girly-office-desktop-with-blank.jpg");
+background-size: cover;
+background-position: relative;
+}
+.photo1 img {
+position:absolute;
+top: 0;
+left: 5px;
+margin-top: 120px;
+border-radius: 20%;
+height: 400px;
+width: auto;
+}
+:root{
+--gold-crayola: #edcb96ff;
+--apricot: #f7c4a5ff;
+--mountbatten-pink: #9e7682ff;
+--independence: #605770ff;
+--independence-2: #4d4861ff;
+}
+
+header {
+height: 120px;
+padding: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: var(--pink);
+color: var(--white);
+}
+
+header h1 {
+display: inline-block;
+font-size: 48px;
+}
+
+header nav {
+padding-top: 15px;
+margin-right: 20px;
+float: right;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+}
+
+header nav ul {
+list-style-type: none;
+}
+
+header nav ul li {
+display: inline-block;
+margin-left: 25px;
+text-decoration: underline;
+}
+
+header nav ul li a {
+font-size: 25px;
+color: black;
+text-decoration: none;
+margin: auto;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+}

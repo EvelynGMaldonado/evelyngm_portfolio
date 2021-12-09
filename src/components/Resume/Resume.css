@@ -1,0 +1,28 @@
+:root{
+    --pink: #b91a64;
+    --white: white;
+    --gray: lightgray;
+}
+/* .res {
+    background-color: var(--gray);
+}
+.res {
+    justify-content: center;
+}*/
+h2 {
+    color: var(--pink);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 4.5rem;
+    padding-top: 2%;
+    
+}  
+
+.react-pdf__Page__canvas {
+    justify-content: center;
+    margin-left: 27%;
+}
+
+.react-pdf__Page__annotations{
+    height: 25px;
+}

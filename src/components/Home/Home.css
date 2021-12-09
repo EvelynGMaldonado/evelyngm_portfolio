@@ -1,0 +1,39 @@
+:root{
+    --pink: #b91a64;
+    --white: white;
+    --gray: lightgray;
+}
+h2 {
+    color: var(--pink);
+}
+.content{
+    border-bottom:transparent;
+    border-top: transparent;
+    border-left: transparent;
+}
+.card-body {
+    border-left: var(--pink) solid 10px;
+}
+.card-text {
+    line-height: 2;
+}
+
+#background {
+    background-color: var(--gray);
+}
+#image1 {
+    position:relative;
+}
+#link1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    background-color: white;
+    padding: 2%;
+    margin-right: 12px;
+    border: 10px solid var(--pink);
+    border-style: dotted;
+    border-width: thick;
+    background-color: pink;
+}

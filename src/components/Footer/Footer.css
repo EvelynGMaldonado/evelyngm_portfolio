@@ -1,0 +1,18 @@
+:root{
+    --pink: #b91a64;
+    --white: white;
+    --gray: lightgray;
+}
+h2 {
+    color: var(--pink);
+}
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 1.75rem;
+}
