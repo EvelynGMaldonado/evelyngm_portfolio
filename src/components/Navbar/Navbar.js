@@ -31,7 +31,7 @@ return (
             </li>
             <li>
                 <Link to ="/contact-info">
-                    <a> Contact Information</a>   
+                    <a> Contact</a>   
                 </Link>
             </li>
         </ul>
