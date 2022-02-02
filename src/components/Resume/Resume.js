@@ -1,13 +1,13 @@
 import React from 'react';
 import './Resume.css';
-import resume from '../../assets/Resume.pdf';
+import resume from '../../assets/Resume-EGM.pdf';
 import { Document, Page, pdfjs } from 'react-pdf';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const Resume = () => {
 return (
     <div className="res">
-        <h2 className=''>Resume</h2>
+        {/* <h2 className=''>Resume</h2> */}
         
         <Document
             file={resume}
