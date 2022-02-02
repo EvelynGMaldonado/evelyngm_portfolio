@@ -8,7 +8,7 @@
 }
 .res {
     justify-content: center;
-}*/
+} */
 h2 {
     color: var(--pink);
     text-align: center;
@@ -21,8 +21,14 @@ h2 {
 .react-pdf__Page__canvas {
     justify-content: center;
     margin-left: 30%;
+    margin-bottom: 0%;
+    margin-top: 0%;
 }
 
 .react-pdf__Page__annotations{
     height: 25px;
 }
+
+/* #location {
+    margin-right: 0%;
+} */

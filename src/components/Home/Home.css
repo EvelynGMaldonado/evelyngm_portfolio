@@ -37,3 +37,7 @@ h2 {
     border-width: thick;
     background-color: pink;
 }
+#center {
+    justify-content: center;
+    font-style: italic;
+}
